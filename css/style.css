@@ -250,6 +250,18 @@ body {
     font-size: .5rem
 }
 
+.back{
+  padding: .5rem;
+  color: white;
+  font-size: 2rem;
+  position: absolute;
+  border-style: groove;
+  margin-left: 30%;
+  border-color: #301E67;
+  box-shadow: 10px 5px 5px #609EA2;
+  background: #176ed1;
+}
+
 .python-logo {
   position: absolute;
   width: 10rem;
